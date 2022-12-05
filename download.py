@@ -14,6 +14,6 @@ ydl_opts_start = {
     'ignoreerrors': True
 }
 
-url = "https://www.pornhub.com/pornstars"
+url = "https://www.pornhub.com/pornstar/eva-elfie"
 with youtube_dl.YoutubeDL(ydl_opts_start) as ydl:
     ydl.download([url])
